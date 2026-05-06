@@ -21,11 +21,11 @@ class Fluid:
     """
 
     _ALIASES = {
-        "rp-1": "nDodecane",
-        "rp1": "nDodecane",
-        "jet-a": "nDodecane",
-        "jeta": "nDodecane",
-        "kerosene": "nDodecane",
+        "rp-1": "n-Dodecane",
+        "rp1": "n-Dodecane",
+        "jet-a": "n-Dodecane",
+        "jeta": "n-Dodecane",
+        "kerosene": "n-Dodecane",
         "lox": "Oxygen",
     }
 
